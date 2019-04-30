@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Importing Kaggle Datasets Into Google Colab
+subtitle: 
+gh-repo: WillHK/kaggleapitutorial
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [tutorial]
 comments: true
 ---
 
